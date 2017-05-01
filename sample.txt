@@ -1,0 +1,5 @@
+sampletxtfile
+
+aaa
+bbb
+ccc
